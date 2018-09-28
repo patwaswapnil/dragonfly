@@ -3851,7 +3851,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var baseURL = 'http://dragonflyuat.infini.work/api';
+var baseURL = 'https://dragonflyuat.infini.work/api';
 //export const baseURL = 'http://192.168.2.98:8080/api';  
 
 var TokenProvider = /** @class */ (function () {
