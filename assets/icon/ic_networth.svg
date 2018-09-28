@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #20C4F4;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <g id="statistics" transform="translate(-1.719 1)">
+      <g id="Group_288" data-name="Group 288" transform="translate(6.498)">
+        <g id="Group_287" data-name="Group 287" transform="translate(0)">
+          <path id="Path_146" data-name="Path 146" class="cls-2" d="M159.219,0V12.152h21.79L129.932,63.229,78.406,11.7,9.32,80.788l8.593,8.592L78.406,28.888l51.526,51.526L189.6,20.745V42.534h12.152V0Z" transform="translate(-9.32)"/>
+        </g>
+      </g>
+      <g id="Group_290" data-name="Group 290" transform="translate(4.719 127.604)">
+        <g id="Group_289" data-name="Group 289" transform="translate(0)">
+          <rect id="Rectangle_657" data-name="Rectangle 657" class="cls-2" width="39.372" height="70.392"/>
+        </g>
+      </g>
+      <g id="Group_292" data-name="Group 292" transform="translate(56.243 65.138)">
+        <g id="Group_291" data-name="Group 291">
+          <rect id="Rectangle_658" data-name="Rectangle 658" class="cls-2" width="39.372" height="132.862"/>
+        </g>
+      </g>
+      <g id="Group_294" data-name="Group 294" transform="translate(107.772 102.255)">
+        <g id="Group_293" data-name="Group 293">
+          <rect id="Rectangle_659" data-name="Rectangle 659" class="cls-2" width="39.372" height="95.745"/>
+        </g>
+      </g>
+      <g id="Group_296" data-name="Group 296" transform="translate(159.697 65.138)">
+        <g id="Group_295" data-name="Group 295">
+          <rect id="Rectangle_660" data-name="Rectangle 660" class="cls-2" width="39.372" height="132.862"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

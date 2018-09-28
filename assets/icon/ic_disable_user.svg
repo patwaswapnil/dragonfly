@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #7e7e7e;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <g id="padlock" transform="translate(-17.548 1)">
+      <path id="Path_151" data-name="Path 151" class="cls-2" d="M194.605,93.938A13.018,13.018,0,0,0,185.041,90h-4.5V63q0-25.875-18.561-44.436T117.546,0Q91.669,0,73.108,18.563T54.547,63V90h-4.5a13.443,13.443,0,0,0-13.5,13.5v81a13.441,13.441,0,0,0,13.5,13.5h135a13.441,13.441,0,0,0,13.5-13.5v-81A13.011,13.011,0,0,0,194.605,93.938ZM153.545,90h-72V63A34.682,34.682,0,0,1,92.094,37.547a35.99,35.99,0,0,1,50.906,0A34.687,34.687,0,0,1,153.545,63Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-2" width="200" height="200"/>
+    <g id="clipboard" transform="translate(-10.333 1)">
+      <g id="Group_69" data-name="Group 69" transform="translate(21.333)">
+        <path id="Path_42" data-name="Path 42" d="M179.733,19.8H138.3a29.512,29.512,0,0,0-55.737,0H41.133a19.8,19.8,0,0,0-19.8,19.8V178.2a19.8,19.8,0,0,0,19.8,19.8h138.6a19.8,19.8,0,0,0,19.8-19.8V39.6A19.8,19.8,0,0,0,179.733,19.8Zm-69.3,0a9.9,9.9,0,1,1-9.9,9.9A9.9,9.9,0,0,1,110.433,19.8Zm19.8,138.6h-69.3V138.6h69.3Zm29.7-39.6h-99V99h99Zm0-39.6h-99V59.4h99Z" transform="translate(-21.333)"/>
+      </g>
+    </g>
+  </g>
+</svg>

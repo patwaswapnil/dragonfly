@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-2" width="200" height="200"/>
+    <g id="turn-notifications-off-button" transform="translate(-14.5 1)">
+      <g id="notifications-off" transform="translate(25.5)">
+        <path id="Path_35" data-name="Path 35" d="M109.65,198a19.858,19.858,0,0,0,19.8-19.8H89.85A19.858,19.858,0,0,0,109.65,198ZM174,84.15c0-30.69-20.79-55.44-49.5-62.37V14.85a14.85,14.85,0,1,0-29.7,0v6.93a57.246,57.246,0,0,0-13.86,4.95L174,119.79Zm-2.97,84.15,19.8,19.8,12.87-12.87L38.37,9.9,25.5,22.77,54.21,51.48A62.31,62.31,0,0,0,45.3,84.15V138.6L25.5,158.4v9.9Z" transform="translate(-25.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

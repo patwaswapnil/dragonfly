@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-2" width="200" height="200"/>
+    <g id="chat-bubbles" transform="translate(1 1)">
+      <g id="forum">
+        <path id="Path_43" data-name="Path 43" d="M188.1,39.6H168.3v89.1H39.6v19.8c0,5.94,3.96,9.9,9.9,9.9H158.4L198,198V49.5C198,43.56,194.04,39.6,188.1,39.6ZM148.5,99V9.9c0-5.94-3.96-9.9-9.9-9.9H9.9C3.96,0,0,3.96,0,9.9V148.5l39.6-39.6h99C144.54,108.9,148.5,104.94,148.5,99Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-2" width="200" height="200"/>
+    <g id="notifications" transform="translate(1 -1.8)">
+      <g id="Group_67" data-name="Group 67" transform="translate(0 4.8)">
+        <g id="Group_66" data-name="Group 66" transform="translate(0 0)">
+          <path id="Path_36" data-name="Path 36" d="M342.433,85.91h19.85A103.82,103.82,0,0,0,321.343,8L307.2,22.143A84.443,84.443,0,0,1,342.433,85.91Z" transform="translate(-164.283 -6.511)"/>
+          <path id="Path_37" data-name="Path 37" d="M55.133,22.193,40.94,8A103.819,103.819,0,0,0,0,85.91H19.85A84.164,84.164,0,0,1,55.133,22.193Z" transform="translate(0 -6.511)"/>
+          <path id="Path_38" data-name="Path 38" d="M181.081,89.161c0-30.519-16.227-55.976-44.662-62.725V19.687a14.887,14.887,0,1,0-29.774,0v6.749C78.21,33.185,61.983,58.642,61.983,89.161v49.624l-19.85,19.85v9.925h158.8v-9.925l-19.849-19.85Z" transform="translate(-22.532 -4.8)"/>
+          <path id="Path_39" data-name="Path 39" d="M189.983,397.984h0a21.235,21.235,0,0,0,4.02-.4,19.744,19.744,0,0,0,15.83-19.452h-39.7A19.844,19.844,0,0,0,189.983,397.984Z" transform="translate(-90.983 -204.449)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-2" width="200" height="200"/>
+    <g id="drive-file" transform="translate(21 1)">
+      <path id="Path_33" data-name="Path 33" class="cls-2" d="M70.8,0A19.858,19.858,0,0,0,51,19.8V178.2A19.858,19.858,0,0,0,70.8,198H189.6a19.858,19.858,0,0,0,19.8-19.8V59.4L150,0Zm69.3,69.3V14.85L194.55,69.3Z" transform="translate(-51)"/>
+    </g>
+  </g>
+</svg>

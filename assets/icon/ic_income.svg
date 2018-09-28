@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 155.449">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #20C4F4;
+      }
+    </style>
+  </defs>
+  <g id="coin" transform="translate(0 -41)">
+    <g id="Group_169" data-name="Group 169" transform="translate(0 103.637)">
+      <g id="Group_168" data-name="Group 168">
+        <rect id="Rectangle_580" data-name="Rectangle 580" class="cls-1" width="30.937" height="92.812"/>
+      </g>
+    </g>
+    <g id="Group_171" data-name="Group 171" transform="translate(42.539 103.637)">
+      <g id="Group_170" data-name="Group 170">
+        <path id="Path_109" data-name="Path 109" class="cls-1" d="M259.008,273.156a15.754,15.754,0,0,0-14.122-2.412A47.627,47.627,0,0,0,226.6,282.139l-4.814,4.814a19.656,19.656,0,0,1-14.985,6.922H164.422l-.109,0a18.99,18.99,0,0,1-13.43-5.591l8.2-8.208a7.471,7.471,0,0,0,5.318,2.2l42.4,0a8.094,8.094,0,0,0,6.243-2.949l11.95-11.986A19.453,19.453,0,0,0,207.066,255.2H171.815l-15.442-15a28.852,28.852,0,0,0-20.208-8.2L110,232v78.264a44.367,44.367,0,0,0,32.871,14.549h66.783l47.285-24.778a15.9,15.9,0,0,0,2.069-26.878Z" transform="translate(-110 -232)"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_40" data-name="Ellipse 40" class="cls-1" cx="31.506" cy="31.506" rx="31.506" ry="31.506" transform="translate(86.238 41)"/>
+  </g>
+</svg>

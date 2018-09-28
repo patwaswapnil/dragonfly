@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-2" width="200" height="200"/>
+    <g id="rounded-info-button" transform="translate(1 1)">
+      <g id="info">
+        <path id="Path_40" data-name="Path 40" d="M99,0C44.55,0,0,44.55,0,99s44.55,99,99,99,99-44.55,99-99S153.45,0,99,0Zm9.9,148.5H89.1V89.1h19.8Zm0-79.2H89.1V49.5h19.8Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

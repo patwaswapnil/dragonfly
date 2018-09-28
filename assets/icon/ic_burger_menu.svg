@@ -1,0 +1,14 @@
+<svg id="menu-of-three-lines" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 136.125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7e7e7e;
+      }
+    </style>
+  </defs>
+  <g id="menu" transform="translate(0 0)">
+    <g id="Group_5" data-name="Group 5" transform="translate(0 0)">
+      <path id="Path_4" data-name="Path 4" class="cls-1" d="M0,95.625V108H198V95.625Zm0,74.25H198V157.5H0ZM0,231.75H198V219.375H0Z" transform="translate(0 -95.625)"/>
+    </g>
+  </g>
+</svg>

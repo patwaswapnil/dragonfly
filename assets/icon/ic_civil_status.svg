@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #20C4F4;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <g id="Group_9" data-name="Group 9" transform="translate(-7766 2910.26)">
+      <g id="same-sex-marriage_1_" data-name="same-sex-marriage(1)" transform="translate(7851.115 -2902.26)">
+        <path id="Path_96" data-name="Path 96" class="cls-2" d="M76,142.5a21.265,21.265,0,1,0,21.265-21.265A21.288,21.288,0,0,0,76,142.5Zm0,0" transform="translate(-40.086 -121.238)"/>
+        <path id="Path_99" data-name="Path 99" class="cls-2" d="M28.375,254.011C25.263,297.866,1.759,321.828,0,326.3H43v43H71.355v-43h42.529c-1.132-2.87-24.958-30.781-27.9-72.288A13.988,13.988,0,0,0,71.9,241.239H42.456a13.988,13.988,0,0,0-14.081,12.772Zm0,0" transform="translate(0 -184.532)"/>
+      </g>
+      <g id="same-sex-marriage" transform="translate(7767 -2902.138)">
+        <path id="Path_104" data-name="Path 104" class="cls-2" d="M340.768,241H284.575a14.053,14.053,0,0,0-11.561,6.044,14.249,14.249,0,0,0-1.591,13.137c8.652,22.893,12.9,32.669,12.9,56.721v9.158h14.176v43h28.353v-43h14.176V316.9c0-24.014,4.24-33.825,12.888-56.721a14.244,14.244,0,0,0-1.591-13.145A14.044,14.044,0,0,0,340.768,241Zm0,0" transform="translate(-270.5 -184.293)"/>
+        <path id="Path_105" data-name="Path 105" class="cls-2" d="M314.742,142.265A21.265,21.265,0,1,0,336.007,121,21.288,21.288,0,0,0,314.742,142.265Zm0,0" transform="translate(-293.835 -121)"/>
+      </g>
+    </g>
+  </g>
+</svg>

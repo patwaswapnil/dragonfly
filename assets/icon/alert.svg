@@ -1,0 +1,12 @@
+<svg id="alert" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 198">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #20C4F4;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7">
+    <path id="Path_5" data-name="Path 5" class="cls-1" d="M99,0a99,99,0,1,0,99,99A99.036,99.036,0,0,0,99,0Zm9.9,148.5H89.1V128.7h19.8Zm0-39.6H89.1V49.5h19.8Z"/>
+  </g>
+</svg>

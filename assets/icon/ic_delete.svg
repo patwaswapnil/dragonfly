@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #7e7e7e;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <g id="rubbish-bin-delete-button" transform="translate(23 1)">
+      <g id="delete" transform="translate(0)">
+        <path id="Path_84" data-name="Path 84" class="cls-2" d="M62,176a22.065,22.065,0,0,0,22,22h88a22.065,22.065,0,0,0,22-22V44H62ZM205,11H166.5l-11-11h-55l-11,11H51V33H205Z" transform="translate(-51)"/>
+      </g>
+    </g>
+  </g>
+</svg>

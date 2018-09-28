@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #7e7e7e;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <g id="menu_1_" data-name="menu (1)" transform="translate(-117 1)">
+      <g id="Group_148" data-name="Group 148" transform="translate(192)">
+        <g id="Group_147" data-name="Group 147">
+          <circle id="Ellipse_35" data-name="Ellipse 35" class="cls-2" cx="24.75" cy="24.75" r="24.75" transform="translate(0 74.25)"/>
+          <circle id="Ellipse_36" data-name="Ellipse 36" class="cls-2" cx="24.75" cy="24.75" r="24.75" transform="translate(0 148.5)"/>
+          <circle id="Ellipse_37" data-name="Ellipse 37" class="cls-2" cx="24.75" cy="24.75" r="24.75"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

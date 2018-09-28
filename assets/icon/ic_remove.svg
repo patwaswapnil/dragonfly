@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #20C4F4;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <g id="Group_298" data-name="Group 298" transform="translate(-109 -3957)">
+      <circle id="Ellipse_43" data-name="Ellipse 43" class="cls-2" cx="99" cy="99" r="99" transform="translate(110 3958)"/>
+      <path id="add" class="cls-3" d="M85.782,38.806H46.976V0h-8.17V38.806H0v8.17H38.806V85.782h8.17V46.976H85.782Z" transform="translate(210.806 3998.279) rotate(45)"/>
+    </g>
+  </g>
+</svg>

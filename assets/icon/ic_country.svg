@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #20C4F4;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <path id="Path_147" data-name="Path 147" class="cls-2" d="M101,2a99,99,0,1,0,99,99A99.036,99.036,0,0,0,101,2ZM91.1,179.507A79.085,79.085,0,0,1,21.8,101a80.367,80.367,0,0,1,2.079-17.721L71.3,130.7v9.9a19.858,19.858,0,0,0,19.8,19.8Zm68.31-25.146A19.641,19.641,0,0,0,140.6,140.6h-9.9V110.9a9.929,9.929,0,0,0-9.9-9.9H61.4V81.2H81.2a9.929,9.929,0,0,0,9.9-9.9V51.5h19.8a19.858,19.858,0,0,0,19.8-19.8V27.641a79.023,79.023,0,0,1,28.71,126.72Z" transform="translate(-1 -1)"/>
+  </g>
+</svg>

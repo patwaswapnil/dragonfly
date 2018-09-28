@@ -1,0 +1,12 @@
+<svg id="sort-button-with-three-lines" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 132">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7e7e7e;
+      }
+    </style>
+  </defs>
+  <g id="sort" transform="translate(0 0)">
+    <path id="Path_7" data-name="Path 7" class="cls-1" d="M0,208.5H66v-22H0Zm0-132v22H198v-22Zm0,77H132v-22H0Z" transform="translate(0 -76.5)"/>
+  </g>
+</svg>

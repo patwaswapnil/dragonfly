@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_);
+      }
+
+      .cls-2 {
+        fill: #7e7e7e;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ic_">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_" class="cls-1">
+    <rect class="cls-3" width="200" height="200"/>
+    <g id="search" transform="translate(1 1)">
+      <g id="Group_7" data-name="Group 7">
+        <g id="Group_6" data-name="Group 6">
+          <path id="Path_5" data-name="Path 5" class="cls-2" d="M143.112,24.554A83.833,83.833,0,1,0,24.554,143.112,83.833,83.833,0,1,0,143.112,24.554ZM83.833,151.669a67.837,67.837,0,1,1,67.837-67.837A67.913,67.913,0,0,1,83.833,151.669Z"/>
+        </g>
+      </g>
+      <g id="Group_9" data-name="Group 9" transform="translate(129.425 129.425)">
+        <g id="Group_8" data-name="Group 8">
+          <path id="Path_6" data-name="Path 6" class="cls-2" d="M400.907,389.6l-52.579-52.579a8,8,0,0,0-11.311,11.311L389.6,400.907A8,8,0,0,0,400.907,389.6Z" transform="translate(-334.675 -334.674)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
